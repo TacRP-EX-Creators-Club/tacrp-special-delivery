@@ -12,7 +12,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Compact, low-capacity pocket pistol made famous by the movies. Best suited for close range self defense."
-SWEP.Description_Quote = "\"Shocking. Positively shocking.\""
+SWEP.Description_Quote = "\"Shocking. Positively shocking.\"" -- Goldfinger (1964)
 
 SWEP.Trivia_Caliber = ".380 ACP"
 SWEP.Trivia_Manufacturer = "Walther"

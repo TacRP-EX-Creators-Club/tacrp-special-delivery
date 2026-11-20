@@ -12,7 +12,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "1Pistol"
 
 SWEP.Description = "Antique pistol from beyond the Iron Curtain. High range and penetration, but has reliability issues due to its age."
-SWEP.Description_Quote = "\"Perhaps you would prefer to avoid the red tape?\""
+SWEP.Description_Quote = "\"Perhaps you would prefer to avoid the red tape?\"" -- Enemy at the Gates (2001)
 
 SWEP.Trivia_Caliber = "7.62x25mm Tokarev"
 SWEP.Trivia_Manufacturer = "Tula Arms Plant"

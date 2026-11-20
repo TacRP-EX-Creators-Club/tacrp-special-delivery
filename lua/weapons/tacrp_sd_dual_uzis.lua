@@ -11,7 +11,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "3Akimbo"
 
 SWEP.Description = "Pair of full-auto Micro Uzis. I don't know how you expect to hit anything with this getup, but you do you I guess."
-SWEP.Description_Quote = "\"I'll hit you with so many rights you'll be begging for a left!\""
+SWEP.Description_Quote = "\"I'll hit you with so many rights you'll be begging for a left!\"" -- Invasion U.S.A. (1985)
 
 SWEP.Trivia_Caliber = "9x21mm IMI"
 SWEP.Trivia_Manufacturer = "Israel Military Industries"

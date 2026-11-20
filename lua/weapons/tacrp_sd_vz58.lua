@@ -12,7 +12,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "5Sporter"
 
 SWEP.Description = "High-damage assault rifle with excellent armor piercing capabilities, converted to semi auto for civilian markets."
-SWEP.Description_Quote = "Despite its looks, it is definitely not an AK."
+SWEP.Description_Quote = "Despite its looks, it is definitely not an AK." -- True!
 
 SWEP.Trivia_Caliber = "7.62x39mm"
 SWEP.Trivia_Manufacturer = "CZ Uherský Brod"

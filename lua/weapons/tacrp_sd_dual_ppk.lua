@@ -11,7 +11,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Akimbo"
 
 SWEP.Description = "A pair of suppressed PPK pistols. Swift and accurate, but the low capacity and mediocre damage demands a sharp eye and trigger discpline."
-SWEP.Description_Quote = "You better not be picking Oddjob."
+SWEP.Description_Quote = "You better not be picking Oddjob." -- GoldenEye64 (1997)
 
 SWEP.Trivia_Caliber = ".380 ACP"
 SWEP.Trivia_Manufacturer = "Walther"

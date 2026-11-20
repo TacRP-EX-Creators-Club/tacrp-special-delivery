@@ -11,7 +11,7 @@ SWEP.SubCatTier = "3Security"
 SWEP.SubCatType = "3Akimbo"
 
 SWEP.Description = "Pair of pistols pilfered from a pair of dead metrocops. Decent damage and capacity but hefty and slow to fire."
-SWEP.Description_Quote = "If Gordon was smart, he would do this."
+SWEP.Description_Quote = "Does not come with augmented vision, this time." -- Reference to Intelligent HUD: https://steamcommunity.com/sharedfiles/filedetails/?id=301748935
 
 SWEP.Trivia_Caliber = ".45 ACP"
 SWEP.Trivia_Manufacturer = "Heckler & Koch"

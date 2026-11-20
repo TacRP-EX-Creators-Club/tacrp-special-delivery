@@ -11,7 +11,7 @@ SWEP.SubCatTier = "2Operator"
 SWEP.SubCatType = "4Assault Rifle"
 
 SWEP.Description = "Bullpup rifle with a blazing fast firerate, used by the French Navy. While capable of automatic fire, using burst-fire or the built-in bipod is recommended."
-SWEP.Description_Quote = "\"God's got a sense of humor, alright.\"" // Metal Gear Solid
+SWEP.Description_Quote = "\"God's got a sense of humor, alright.\"" -- Metal Gear Solid (1998)
 
 SWEP.Trivia_Caliber = "5.56x45mm"
 SWEP.Trivia_Manufacturer = "GIAT Industries" // more like GYATT industries ahahahaha amirite fellow zoomies?

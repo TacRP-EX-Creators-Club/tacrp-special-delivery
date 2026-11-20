@@ -12,7 +12,7 @@ SWEP.SubCatTier = "5Value"
 SWEP.SubCatType = "2Magnum Pistol"
 
 SWEP.Description = "Antique percussion revolver packing a punch up close, but is terribly slow to shoot. Suitable for cowboy roleplay."
-SWEP.Description_Quote = "\"Pass the whiskey!\""
+SWEP.Description_Quote = "\"Pass the whiskey!\"" -- Fistful of Frags (2014)
 
 SWEP.Trivia_Caliber = ".44 Percussion"
 SWEP.Trivia_Manufacturer = "Remington Arms"

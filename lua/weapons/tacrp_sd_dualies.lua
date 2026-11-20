@@ -11,7 +11,7 @@ SWEP.SubCatTier = "4Consumer"
 SWEP.SubCatType = "3Akimbo"
 
 SWEP.Description = "Pair of customized pistols with a two-tone finish and dragons emblazoned on the grips.  Swift handling and decent recoil control but low stopping power."
-SWEP.Description_Quote = "\"I released my finger from the trigger, and it was over.\""
+SWEP.Description_Quote = "\"I released my finger from the trigger, and it was over.\"" -- Max Payne (2001)
 
 SWEP.Trivia_Caliber = "9x19mm"
 SWEP.Trivia_Manufacturer = "Pietro Beretta"

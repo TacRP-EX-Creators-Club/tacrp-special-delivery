@@ -12,7 +12,7 @@ SWEP.SubCatTier = "1Elite"
 SWEP.SubCatType = "7Sniper Rifle"
 
 SWEP.Description = "Elegant bullpup sniper rifle with high damage and high rate of fire.\nEquipped with a 12x scope by default."
-SWEP.Description_Quote = "\"Names are for friends, so I don't need one.\""
+SWEP.Description_Quote = "\"Names are for friends, so I don't need one.\"" -- Hitman: Blood Money (2006)
 
 SWEP.Trivia_Caliber = ".300 Win Mag"
 SWEP.Trivia_Manufacturer = "Walther"
