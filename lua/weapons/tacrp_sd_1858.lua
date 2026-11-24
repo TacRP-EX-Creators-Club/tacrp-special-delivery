@@ -77,19 +77,19 @@ SWEP.TTTReplace = TacRP.TTTReplacePreset.Magnum
 // "ballistics"
 
 SWEP.Damage_Max = 50
-SWEP.Damage_Min = 25
-SWEP.Range_Min = 400 // distance for which to maintain maximum damage
+SWEP.Damage_Min = 30
+SWEP.Range_Min = 600 // distance for which to maintain maximum damage
 SWEP.Range_Max = 1800 // distance at which we drop to minimum damage
 SWEP.Penetration = 4 // units of metal this weapon can penetrate
-SWEP.ArmorPenetration = 0.4
+SWEP.ArmorPenetration = 0.5
 SWEP.ArmorBonus = 2
 
 SWEP.MuzzleVelocity = 9001
 
 SWEP.BodyDamageMultipliers = {
-    [HITGROUP_HEAD] = 3,
+    [HITGROUP_HEAD] = 2,
     [HITGROUP_CHEST] = 1,
-    [HITGROUP_STOMACH] = 1.25,
+    [HITGROUP_STOMACH] = 1,
     [HITGROUP_LEFTARM] = 1,
     [HITGROUP_RIGHTARM] = 1,
     [HITGROUP_LEFTLEG] = 0.9,
@@ -105,7 +105,7 @@ SWEP.FiremodeName = "Single-Action" // only used externally for firemode name di
 
 SWEP.RPM = 65
 
-SWEP.Spread = 0.008
+SWEP.Spread = 0.01
 
 SWEP.ShootTimeMult = 0.8
 
@@ -128,14 +128,14 @@ SWEP.CanBlindFire = true
 
 // handling
 
-SWEP.MoveSpeedMult = 0.9
-SWEP.ShootingSpeedMult = 0.75
-SWEP.SightedSpeedMult = 0.8
+SWEP.MoveSpeedMult = 0.94
+SWEP.ShootingSpeedMult = 0.7
+SWEP.SightedSpeedMult = 0.85
 
 SWEP.ReloadSpeedMult = 0.75
 
 SWEP.AimDownSightsTime = 0.25
-SWEP.SprintToFireTime = 0.17
+SWEP.SprintToFireTime = 0.2
 
 SWEP.FreeAimMaxAngle = 3
 
@@ -218,7 +218,7 @@ SWEP.AnimationTranslationTable = {
     ["fire_iron"] = "fire",
     ["blind_fire"] = "blind_fire",
     ["melee"] = {"melee1", "melee2"},
-    ["jam"] = "fire_stock",
+    ["jam"] = "draw",
 }
 
 SWEP.HolsterTimeMult = 0.75

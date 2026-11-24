@@ -67,14 +67,15 @@ SWEP.TTTReplace = TacRP.TTTReplacePreset.MarksmanRifle
 // "ballistics"
 
 SWEP.Damage_Max = 18
-SWEP.Damage_Min = 14
-SWEP.Range_Min = 600
+SWEP.Damage_Min = 10
+SWEP.Range_Min = 700
 SWEP.Range_Max = 3000
-SWEP.Penetration = 9
-SWEP.ArmorPenetration = 0.725
+SWEP.Penetration = 7
+SWEP.ArmorPenetration = 0.75
+SWEP.ArmorBonus = 1.5
 
 SWEP.BodyDamageMultipliers = {
-    [HITGROUP_HEAD] = 3.5,
+    [HITGROUP_HEAD] = 2.5,
     [HITGROUP_CHEST] = 1,
     [HITGROUP_STOMACH] = 1,
     [HITGROUP_LEFTARM] = 0.9,
@@ -84,7 +85,7 @@ SWEP.BodyDamageMultipliers = {
     [HITGROUP_GEAR] = 0.75
 }
 
-SWEP.MuzzleVelocity = 29000
+SWEP.MuzzleVelocity = 22000
 
 // misc. shooting
 
@@ -93,7 +94,7 @@ SWEP.Firemode = 1
 SWEP.RPM = 700
 SWEP.RPMMultSemi = 0.6
 
-SWEP.Spread = 0.0035
+SWEP.Spread = 0.004
 
 SWEP.ShootTimeMult = 0.5
 
@@ -102,15 +103,15 @@ SWEP.RecoilPerShot = 1
 SWEP.RecoilMaximum = 5
 SWEP.RecoilResetTime = 0
 SWEP.RecoilDissipationRate = 15
-SWEP.RecoilFirstShotMult = 1.25
+SWEP.RecoilFirstShotMult = 1
 
-SWEP.RecoilVisualKick = 1
-SWEP.RecoilKick = 2.5
-SWEP.RecoilStability = 0.75
+SWEP.RecoilVisualKick = 0.5
+SWEP.RecoilKick = 3
+SWEP.RecoilStability = 0.6
 SWEP.RecoilAltMultiplier = 300
 
 SWEP.RecoilSpreadPenalty = 0.0017
-SWEP.HipFireSpreadPenalty = 0.02
+SWEP.HipFireSpreadPenalty = 0.022
 SWEP.PeekPenaltyFraction = 0.25
 
 SWEP.CanBlindFire = true
@@ -122,7 +123,7 @@ SWEP.SightedSpeedMult = 0.75
 
 SWEP.ReloadSpeedMult = 0.55
 
-SWEP.AimDownSightsTime = 0.26
+SWEP.AimDownSightsTime = 0.28
 SWEP.SprintToFireTime = 0.32
 
 SWEP.Sway = 0.8

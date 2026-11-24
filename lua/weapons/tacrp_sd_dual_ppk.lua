@@ -83,9 +83,9 @@ SWEP.TTTReplace = {["weapon_zm_pistol"] = 0.5, ["weapon_ttt_glock"] = 0.5}
 
 SWEP.Damage_Max = 22
 SWEP.Damage_Min = 6
-SWEP.Range_Min = 675
-SWEP.Range_Max = 1800
-SWEP.Penetration = 5
+SWEP.Range_Min = 825
+SWEP.Range_Max = 2250
+SWEP.Penetration = 4
 
 SWEP.ArmorPenetration = 0.85
 SWEP.ArmorBonus = 0.25
@@ -95,7 +95,7 @@ SWEP.MuzzleVelocity = 18000
 SWEP.BodyDamageMultipliers = {
     [HITGROUP_HEAD] = 5,
     [HITGROUP_CHEST] = 1,
-    [HITGROUP_STOMACH] = 1.25,
+    [HITGROUP_STOMACH] = 1,
     [HITGROUP_LEFTARM] = 1,
     [HITGROUP_RIGHTARM] = 1,
     [HITGROUP_LEFTLEG] = 0.9,

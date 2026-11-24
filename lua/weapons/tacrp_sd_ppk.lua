@@ -91,9 +91,9 @@ SWEP.TTTReplace = TacRP.TTTReplacePreset.Pistol
 
 SWEP.Damage_Max = 22
 SWEP.Damage_Min = 6
-SWEP.Range_Min = 200
-SWEP.Range_Max = 1200
-SWEP.Penetration = 5
+SWEP.Range_Min = 300
+SWEP.Range_Max = 1500
+SWEP.Penetration = 4
 
 SWEP.ArmorPenetration = 0.85
 SWEP.ArmorBonus = 0.25
@@ -132,7 +132,8 @@ SWEP.RecoilVisualKick = 1
 SWEP.RecoilKick = 2
 SWEP.RecoilStability = 0.75
 
-SWEP.RecoilSpreadPenalty = 0.0025
+SWEP.RecoilSpreadPenalty = 0.002
+SWEP.HipFireSpreadPenalty = 0.014
 
 SWEP.MidAirSpreadPenalty = 0.05
 SWEP.PeekPenaltyFraction = 0.2
@@ -141,13 +142,13 @@ SWEP.CanBlindFire = true
 
 // handling
 
-SWEP.MoveSpeedMult = 0.975
-SWEP.ShootingSpeedMult = 0.9
-SWEP.SightedSpeedMult = 0.8
+SWEP.MoveSpeedMult = 1
+SWEP.ShootingSpeedMult = 0.95
+SWEP.SightedSpeedMult = 0.9
 
 SWEP.ReloadSpeedMult = 0.75
 
-SWEP.AimDownSightsTime = 0.2
+SWEP.AimDownSightsTime = 0.17
 SWEP.SprintToFireTime = 0.2
 
 SWEP.Sway = 1

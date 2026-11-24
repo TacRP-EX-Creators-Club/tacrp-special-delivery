@@ -53,6 +53,8 @@ ATT.Hook_ToggleTactical = function(wep)
     wep:ScopeToggle(0)
     wep:PlayAnimation("draw", 1, false, true)
     wep:SetNextPrimaryFire(CurTime() + 0.25)
+    wep:GetOwner():DoAnimationEvent(ACT_HL2MP_GESTURE_RANGE_ATTACK_SLAM)
+
     return true
 end
 
